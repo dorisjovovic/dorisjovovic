@@ -16,4 +16,6 @@ I design the processes, systems and AI workflows teams run on: hiring pipelines,
 - Start from the data sources; structure follows.
 - A correction becomes a rule.
 
-**Find me** on [LinkedIn](https://www.linkedin.com/in/doris-jovovic/). My repos are private for now, but I'm happy to compare notes on ops and AI ☺️
+**Find me** on [LinkedIn](https://www.linkedin.com/in/doris-jovovic/) or [my website](https://www.dorisjovovic.com/). 
+
+My repos are private for now, but I'm happy to compare notes on ops and AI ☺️
